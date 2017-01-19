@@ -1,5 +1,5 @@
 # iris-detection
-This is a complete python code to detect iris in web cam
+
 /--------------------requirements--------------------------/
 OS:windows/linux
 PYTHON: 2.7.3
